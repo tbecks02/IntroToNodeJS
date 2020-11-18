@@ -1,0 +1,20 @@
+{
+  "name": "beckeris350",
+  "version": "14.15.0",
+  "description": "Simple NodeJS Web App",
+  "main": "BeckerIS350.js",
+  "scripts": {
+    "Start":"node BeckerIS350.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbecks02/IntroToNodeJS.git"
+  },
+  "author": "Tyler Becker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbecks02/IntroToNodeJS/issues"
+  },
+  "homepage": "https://github.com/tbecks02/IntroToNodeJS#readme"
+}
