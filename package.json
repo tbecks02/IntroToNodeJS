@@ -4,7 +4,7 @@
   "description": "Simple NodeJS Web App",
   "main": "BeckerIS350.js",
   "scripts": {
-    "Start":"node BeckerIS350.js",
+    "Start": "node BeckerIS350.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/tbecks02/IntroToNodeJS/issues"
   },
-  "homepage": "https://github.com/tbecks02/IntroToNodeJS#readme"
+  "homepage": "https://github.com/tbecks02/IntroToNodeJS#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "NodeJS",
+    "web",
+    "app"
+  ]
 }

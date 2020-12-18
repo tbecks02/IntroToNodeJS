@@ -1,0 +1,3 @@
+CREATE TABLE `ecommerce`.`product` ( `ProductID` INT NOT NULL , `ImageURL` TEXT NOT NULL , `Price` DECIMAL NOT NULL , `Description` VARCHAR(500) NOT NULL , `InventoryAmount` INT NOT NULL , `DateCreated` DATETIME NOT NULL , `DateUpdated` DATETIME NOT NULL ) ENGINE = MyISAM; 
+
+var mysql = require('mysql')
